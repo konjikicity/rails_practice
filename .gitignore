@@ -33,3 +33,7 @@
 # Ignore sqlite3 files
 db/runteq_normal_development
 db/runteq_normal_test
+
+/.DS_Store
+app/.DS_Store
+app/views/.DS_Store
