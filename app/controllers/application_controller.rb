@@ -4,6 +4,7 @@ class ApplicationController < ActionController::Base
   protected
   
   def not_authenticated
+    flash[:danger] = t('defaults.message.not_login')
     redirect_to login_url
   end
 end
