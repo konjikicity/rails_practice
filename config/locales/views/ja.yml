@@ -1,0 +1,25 @@
+ja:
+  defaults:
+    login: 'ログイン'
+    logout: 'ログアウト'
+    post: '投稿'
+    subscribe: '登録'
+  static_pages:
+    top:
+      title: 'RUNTEQ BOARD APP'
+  users:
+    new:
+      title: 'ユーザー登録'
+    index:
+      title: 'ユーザ一覧'
+    show:
+      title: 
+    edit:
+      title:
+  user_sessions:
+    new:
+      title: 'ログイン'
+      email: 'メールアドレス'
+      password: 'パスワード'
+      subscribe: '登録ページへ'
+      
