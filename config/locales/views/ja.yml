@@ -8,6 +8,9 @@ ja:
     top:
       title: 'RUNTEQ BOARD APP'
   users:
+    create:
+      success: 'ユーザー登録が完了しました'
+      fail: 'ユーザー登録に失敗しました'
     new:
       title: 'ユーザー登録'
     index:
@@ -22,4 +25,9 @@ ja:
       email: 'メールアドレス'
       password: 'パスワード'
       subscribe: '登録ページへ'
+    create:
+      success: 'ログインしました'
+      fail: 'ログインに失敗しました'
+    destroy:
+      success: 'ログアウトしました'
       
